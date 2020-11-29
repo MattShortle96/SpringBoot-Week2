@@ -1,0 +1,17 @@
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\App.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\entity\Order.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\service\CustomerService.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\controller\OrderController.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\util\MembershipLevel.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\entity\Address.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\service\OrderService.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\entity\Customer.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\util\OrderStatus.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\repository\OrderRepository.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\service\ProductService.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\entity\Product.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\repository\ProductRepository.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\repository\AddressRepository.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\repository\CustomerRepository.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\controller\CustomerController.java
+C:\Users\short\Desktop\CodingProjects\Maricopa-Bootcamp\InventoryManagementAPI\src\main\java\com\besd\InventoryManagement\controller\ProductController.java
